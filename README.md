@@ -1,2 +1,3 @@
-# dsf-sprint2-Spotify
-Exploratory data analysis and supervised machine learning modeling using Spotify data/ Spotify API to propel Japanese Artist Lisa to dominate the Anime genre.
+# LiSAn1me
+This project is the development of a recommender engine to propel Japanese Artist Lisa to dominate the anime genre through collaboration using Spotify API, Exploratory data analysis, and supervised machine learning modeling. 
+
